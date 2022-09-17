@@ -1,0 +1,32 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <g id="svg_36">
+   <g id="svg_5">
+    <title>Layer 1</title>
+    <rect stroke="#09e809" id="svg_6" height="509.00001" width="505.99997" fill="#3fc380" rx="60" ry="60"/>
+    <g id="svg_37">
+     <rect id="svg_38" fill="#E6E9EE" height="374" width="36" y="67.5" x="149.39999"/>
+     <rect id="svg_39" fill="#E6E9EE" height="374" width="36" y="67.5" x="320.59999"/>
+    </g>
+    <g id="svg_40">
+     <path id="svg_41" fill="#FFFFFF" d="m355.1937,143.5l-204,0c-11.2,0 -20,-8.8 -20,-20l0,0c0,-11.2 8.8,-20 20,-20l203.6,0c11.2,0 20,8.8 20,20l0,0c0.4,11.2 -8.8,20 -19.6,20z"/>
+     <path id="svg_42" fill="#FFFFFF" d="m355.1937,230.7l-204,0c-11.2,0 -20,-8.8 -20,-20l0,0c0,-11.2 8.8,-20 20,-20l203.6,0c11.2,0 20,8.8 20,20l0,0c0.4,11.2 -8.8,20 -19.6,20z"/>
+     <path id="svg_43" fill="#FFFFFF" d="m355.1937,318.3l-204,0c-11.2,0 -20,-8.8 -20,-20l0,0c0,-11.2 8.8,-20 20,-20l203.6,0c11.2,0 20,8.8 20,20l0,0c0.4,10.8 -8.8,20 -19.6,20z"/>
+     <path id="svg_44" fill="#FFFFFF" d="m355.1937,405.5l-204,0c-11.2,0 -20,-8.8 -20,-20l0,0c0,-11.2 8.8,-20 20,-20l203.6,0c11.2,0 20,8.8 20,20l0,0c0.4,10.8 -8.8,20 -19.6,20z"/>
+    </g>
+    <g id="svg_45">
+     <circle id="svg_46" fill="#CED5E0" r="7.6" cy="123.49999" cx="339.39998"/>
+     <circle id="svg_47" fill="#CED5E0" r="7.6" cy="123.49999" cx="166.59998"/>
+     <circle id="svg_48" fill="#CED5E0" r="7.6" cy="210.69999" cx="339.39998"/>
+     <circle id="svg_49" fill="#CED5E0" r="7.6" cy="210.69999" cx="166.59998"/>
+     <circle id="svg_50" fill="#CED5E0" r="7.6" cy="298.29999" cx="339.39998"/>
+     <circle id="svg_51" fill="#CED5E0" r="7.6" cy="298.29999" cx="166.59998"/>
+     <circle id="svg_52" fill="#CED5E0" r="7.6" cy="385.49999" cx="339.39998"/>
+     <circle id="svg_53" fill="#CED5E0" r="7.6" cy="385.49999" cx="166.59998"/>
+    </g>
+   </g>
+  </g>
+ </g>
+
+</svg>
